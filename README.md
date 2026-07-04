@@ -7,7 +7,7 @@ This project is being developed intentionally as open source software so that co
 
 # Project documentation
 
-This project will be documented here
+This project will be documented [here|https://github.com/lturi/orchestra-library-management/wiki]
 
 # Community involvement
 
